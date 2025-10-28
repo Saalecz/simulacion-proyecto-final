@@ -18,8 +18,18 @@ En el caso considerado, el imán cae a través del eje de un anillo conductor. E
 
 _(Esta geometría cerrada del anillo podría evaluarse experimentalmente en etapas posteriores para analizar la dependencia del fenómeno con la conductividad del material y la distancia entre elementos.)_
 
-El flujo magnético a través del anillo se describe a través de la ley de Faraday como: 
+Esta interacción genera un fenómeno de inducción electromagnética, que indica que un campo magnético variable puede inducir corrientes eléctricas en un material conductor y puede describirse usando la ley de Faraday-Lenz, que indica que toda variación de flujo magnético a través de una superficie genera una corriente inducida que se opone al cambio que la produjo: 
 
 $$\phi(t)= \int_{s} B(r,t).dS$$
 
-Ahora, considerando al imán como un dipolo magnético orientado a lo largo del eje z, donde el momento magnético $m=m\hat{z}$
+
+Para estudiar este sistema tenemos dos formas: 
+* Partir del imán como un dipolo magnético
+* Estudiar el sistema con un imán real
+
+Tomando inicialmente la primera aproximación, el momento magnético del dipolo $m=m\hat{z}$ hace referencia a la intensidad y dirección del campo, este campo que genera el imán es axialmente simétrico, es decir, tendrá la misma forma en todos los puntos equidistantes al eje z y disminuye rapidamente con la distancia, es decir, al alejarse del imán su acción se debilita. 
+
+Matemáticamente el campo magnético que genera un dipolo m en un punto del espacio **r** es: 
+
+$B(r)= \frac{\mu_{0}}{4 \pi r^{3} } [3(m.\hat{r})\hat{r}-m]$
+
