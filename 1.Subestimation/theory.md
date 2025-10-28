@@ -31,5 +31,10 @@ Tomando inicialmente la primera aproximación, el momento magnético del dipolo 
 
 Matemáticamente el campo magnético que genera un dipolo m en un punto del espacio **r** es: 
 
-$B(r)= \frac{\mu_{0}}{4 \pi r^{3} } [3(m.\hat{r})\hat{r}-m]$
+$$B(r)= \frac{\mu_{0}}{4 \pi r^{3} } [3(m.\hat{r})\hat{r}-m]$$
+
+y, sobre el eje axial, teniendo en cuenta que $(m.\hat{r})= m(\hat{z}.\hat{z})=m$ y $3(m.\hat{r}) - m= 3m(\hat{z}) - m\hat{z}=2m\hat{z}$ se reduce a: 
+
+
+$$B_{z}(z)= \frac{\mu_0}{2 \pi} \frac{m}{z^{3}}$$
 
