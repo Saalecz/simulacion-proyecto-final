@@ -7,5 +7,4 @@ Inicialmente, partimos de estudiar el caso más simple, en donde se tiene un ún
 
 ## Interacción Imán-Anillo: 
 
-<img width="400" height="300" alt="imagen" src="https://github.com/user-attachments/assets/ba45c77f-332a-4055-92d4-db39fd49a1e3" />
-
+<img width="300" height="300" alt="imagen" src="https://github.com/user-attachments/assets/3c3d2719-ff24-4a13-8b0b-f7b395d4683f" />
