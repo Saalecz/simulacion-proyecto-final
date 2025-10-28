@@ -35,5 +35,6 @@ $$B(r)= \frac{\mu_{0}}{4 \pi r^{3} } [3(m.\hat{r})\hat{r}-m]$$
 y, sobre el eje axial, teniendo en cuenta que $(m.\hat{r})= m(\hat{z}.\hat{z})=m$ y $3(m.\hat{r}) - m= 3m(\hat{z}) - m\hat{z}=2m\hat{z}$, se reduce a:
 
 
-$$B_{z}(z)= \frac{\mu_0}{2 \pi} \frac{m}{z^{3}}$$, lo que se conce como campo dipolar axial, y será nuestra primera aproximación para modelar el sistema en su caso mas simple. 
+$$B_{z}(z)= \frac{\mu_0}{2 \pi} \frac{m}{z^{3}}$$, lo que se conoce como campo dipolar axial, y será nuestra primera aproximación para modelar el sistema en su caso mas simple. 
 
+Ahora, ¿qué pasa cuando el imán no es puntual o el anillo tiene grosor no despreciable? 
