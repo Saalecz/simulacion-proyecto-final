@@ -13,7 +13,7 @@ En este sistema, la interacción depende tanto de las propiedades de los materia
 
 Cuando un imán se aproxima a un anillo conductor, la variación temporal del flujo magnético que atraviesa la superficie del anillo induce corrientes de Foucault *(eddy currents)* en su interior. Estas corrientes generan campos magnéticos propios que, de acuerdo con la ley de Lenz, se oponen al cambio de flujo que las originó. En consecuencia, pueden producir fuerzas de atracción o repulsión dependiendo de la dirección del movimiento y de la orientación del campo del imán.
 
-En el caso considerado, el imán cae a través del eje de un anillo conductor. El anillo, al ser eléctricamente cerrado, responde a la variación del campo magnético $B(**r**,t)$ generado por el imán *(cuyo eje principal coincide con el eje del anillo)* induciendo una corriente azimutal. 
+En el caso considerado, el imán cae a través del eje de un anillo conductor. El anillo, al ser eléctricamente cerrado, responde a la variación del campo magnético $ B(r,t) $ generado por el imán *(cuyo eje principal coincide con el eje del anillo)* induciendo una corriente azimutal. 
 **Dado que la magnitud del campo que atraviesa el área del anillo cambia con la distancia entre el imán y el plano del conductor, el flujo magnético varía en el tiempo, y esta variación es la responsable de la generación de las corrientes inducidas.
 **
 
