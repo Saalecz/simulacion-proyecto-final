@@ -20,6 +20,6 @@ _(Esta geometría cerrada del anillo podría evaluarse experimentalmente en etap
 
 El flujo magnético a través del anillo se describe a través de la ley de Faraday como: 
 
-$\phi(t)= \int_{s} B(**r**,t).dS$
+$$\phi(t)= \int_{s} B(r,t).dS$$
 
 Ahora, considerando al imán como un dipolo magnético orientado a lo largo del eje z, donde el momento magnético $m=m\hat{z}$
