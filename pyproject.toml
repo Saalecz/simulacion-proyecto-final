@@ -5,5 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "magpylib>=5.2.1",
     "numpy>=2.3.4",
+    "scipy>=1.16.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "nbformat>=5.10.4",
 ]
